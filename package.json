@@ -1,0 +1,12 @@
+{
+  "name": "netsuite-automation",
+  "version": "1.0.0",
+  "description": "A NetSuite automation script to send emails with first names from a saved search.Sample script.",
+  "main": "mr_send_firstname_email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "cafeasp",
+  "license": "MIT"
+}
